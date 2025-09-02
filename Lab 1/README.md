@@ -1,8 +1,13 @@
 
 
-# Staging Interaction
+# Staging Interaction 
+Alaysia Reape - ar2443
+August Wang (DROPPED BUT INCLUDED HER STORY BOARDS) 
+Alice Zhang - az536
+Iqra Khan -ik368
+https://docs.google.com/document/d/1kFd9PZL0_nWM-XZm3Pqus96paDcNmzFtRsqGTMSflsw/edit?tab=t.0
+ABOVE IS A LINK TO OUR DOCUMENT ALONG WITH A LINK TO OUR DRIVE
 
-\*\***NAME OF COLLABORATOR HERE**\*\*
 
 In the original stage production of Peter Pan, Tinker Bell was represented by a darting light created by a small handheld mirror off-stage, reflecting a little circle of light from a powerful lamp. Tinkerbell communicates her presence through this light to the other characters. See more info [here](https://en.wikipedia.org/wiki/Tinker_Bell). 
 

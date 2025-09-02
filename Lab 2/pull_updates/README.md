@@ -1,28 +1,8 @@
-# How to Update Your Lab Hub Fork Safely
-
-This guide explains how to pull updates from the main course repository while protecting your own work from being overwritten.
-
-## Overview
-
-The course repository is updated biweekly with:
-- New lab content
-- Bug fixes to existing code
-- Clarifications to instructions
-- Updated requirements or dependencies
-
-You need to pull these updates while preserving your completed lab work.
-
-## Before You Start
+https://docs.google.com/document/d/1kFd9PZL0_nWM-XZm3Pqus96paDcNmzFtRsqGTMSflsw/edit?tab=t.0
+ABOVE IS A LINK TO OUR DOCUMENT ALONG WITH A LINK TO OUR DRIVE
 
 **⚠️ ALWAYS commit your work before pulling updates!**
 
-Make sure all your lab work is committed and pushed to your repository:
-```bash
-git add .
-git commit -m "Save my lab work before pulling updates"
-git push origin main
-```
-When in doubt keep a local copy of your files, and copy paste between!
 
 
 ## Method 1: Using GitHub's Sync Fork Button (Recommended)

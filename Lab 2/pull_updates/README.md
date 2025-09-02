@@ -1,5 +1,3 @@
-https://docs.google.com/document/d/1kFd9PZL0_nWM-XZm3Pqus96paDcNmzFtRsqGTMSflsw/edit?tab=t.0
-ABOVE IS A LINK TO OUR DOCUMENT ALONG WITH A LINK TO OUR DRIVE
 
 **⚠️ ALWAYS commit your work before pulling updates!**
 

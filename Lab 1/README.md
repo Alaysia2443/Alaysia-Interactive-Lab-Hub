@@ -196,7 +196,37 @@ Goals: The goal is to remind the user to stretch and take a breather while they 
 
 <img width="342" height="396" alt="image" src="https://github.com/user-attachments/assets/0383a679-e223-4cc4-8986-f3a814687319" />
 
-<
+Part 2 :
+
+The video presents a interesting prototype. The use of a physical cutout character interacting with a digital screen is a unique and engaging way to demonstrate concepts instead of a regular looking light. The "review session" scene is clear, and the character's goal seems to be to learn and understand the concepts of affordances and signifiers. I also appreciate the person cutout that moves along with the light.
+
+Scene & Character Goals:
+
+Scene: A study or review session where a user (represented by the paper cutout) is learning about design concepts like "affordance" and "signifier." The environment appears to be a digital presentation or a guided interactive lesson.
+
+Character's Goals: The paper cutout character's goal is to progress through the lesson by correctly identifying and interacting with the on-screen prompts. The character physically "climbs" the ladder to reach the "affordance" bubble, demonstrating an understanding of the concept. The character's finger "tapping" the screen for the digital affordance is also a clever physical representation of a digital action.
+
+Suggestions & Feedback:
+
+The use of physical props (the cutout character and the ladder) is a fantastic way to make abstract concepts tangible. This method would be particularly effective for teaching children or for making a presentation more memorable.
+
+The transition from one concept to the next is very smooth. The way the bubbles appear and the character "moves" to them makes the flow easy to follow.
+
+The video does a great job of explaining the concepts. The "What is..." and "How do they work together?" structure is very logical.
+
+Questions:
+
+What was the specific technology used to create this? Is it a greenscreen effect, or is there some kind of augmented reality component?
+
+Are the physical props (the character and the ladder) meant to be a permanent part of the interaction, or were they just for this specific demonstration?
+
+Could this concept be extended to other educational topics?
+
+Was tinkerbelle used for the light or some other method?
+
+
+Sources and related content
+
 ## Prep
 
 ### To start the semester, you will need:

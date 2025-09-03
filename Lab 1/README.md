@@ -224,6 +224,8 @@ Could this concept be extended to other educational topics?
 
 Was tinkerbelle used for the light or some other mechanism?
 
+<img width="891" height="923" alt="image" src="https://github.com/user-attachments/assets/08aa82c4-f56a-48e0-92c1-8286c99a8226" />
+
 video: 
 
 https://drive.google.com/file/d/13WwvR539oNCyu8nT8d6yBPO225fLfV4H/view?usp=drivesdk

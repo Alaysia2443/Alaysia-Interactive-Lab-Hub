@@ -222,10 +222,11 @@ Are the physical props (the character and the ladder) meant to be a permanent pa
 
 Could this concept be extended to other educational topics?
 
-Was tinkerbelle used for the light or some other method?
+Was tinkerbelle used for the light or some other mechanism?
 
+video: 
 
-Sources and related content
+https://drive.google.com/file/d/13WwvR539oNCyu8nT8d6yBPO225fLfV4H/view?usp=drivesdk
 
 ## Prep
 

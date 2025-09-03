@@ -112,6 +112,9 @@ Personalized pace: The light could learn from your behavior. If you always ignor
 
 <img width="655" height="1026" alt="image" src="https://github.com/user-attachments/assets/2f25876f-76c5-468e-a7bb-d87968e4770e" />
 
+Changed goal to idenify blue book within library using light 
+<img width="1554" height="859" alt="image" src="https://github.com/user-attachments/assets/f648266a-6815-4650-859f-73199667106c" />
+
 
 Creator: August 
 Storyboard 1: The Pet Care Light/Feeder

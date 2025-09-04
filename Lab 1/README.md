@@ -19,8 +19,6 @@ Alice  - az536
 Iqra - ik368
 VIDEO LINK - Videos For IDD Lab1
 
-Tinkerbelle Feedback:
-The Tinkerbelle system is a helpful shortcut for this lab. It lets our group be able to use our phones as a remote-controlled light so we don't have to build the technology from scratch. This frees us up to focus on the more creative aspects of the assignment, like designing how the light behaves and how characters interact with it in our  scene. The main downsides are the potential for minor technical issues during setup and the challenge of making a flat phone screen look like a more complex device. We had particular challenges with setting up the system on a Windows device versus a Mac device. Since the tool is made for both devices it should be consistently user friendly for all users. 
 
 <img width="1388" height="1191" alt="Screenshot 2025-08-27 183043" src="https://github.com/user-attachments/assets/23a139f8-bab3-4cc0-9a88-6c513c7768e2" />
 <img width="1311" height="1190" alt="Screenshot 2025-08-27 183032" src="https://github.com/user-attachments/assets/5ed0fd88-6c44-4946-92ca-c2cfef78f26c" />
@@ -64,7 +62,7 @@ The feedback for my storyboard centers on the user's interaction with the device
 
 The Time To...
 
-Your feedback for this storyboard is about the user interface and how the device's logic works. My group asked for clarification on whether the device uses a sensor, how a user can dismiss an alert, and how the device knows which alerts to provide the user with.
+The feedback for this storyboard is about the user interface and how the device's logic works. My group asked for clarification on whether the device uses a sensor, how a user can dismiss an alert, and how the device knows which alerts to provide the user with.
 
 
 
@@ -197,6 +195,7 @@ Goals: The goal is to remind the user to stretch and take a breather while they 
 <img width="342" height="396" alt="image" src="https://github.com/user-attachments/assets/0383a679-e223-4cc4-8986-f3a814687319" />
 
 Part 2 :
+Feedback for Chia-Hsuan Chang: 
 
 The video presents a interesting prototype. The use of a physical cutout character interacting with a digital screen is a unique and engaging way to demonstrate concepts instead of a regular looking light. The "review session" scene is clear, and the character's goal seems to be to learn and understand the concepts of affordances and signifiers. I also appreciate the person cutout that moves along with the light.
 
@@ -223,6 +222,25 @@ Are the physical props (the character and the ladder) meant to be a permanent pa
 Could this concept be extended to other educational topics?
 
 Was tinkerbelle used for the light or some other mechanism?
+
+Viha Srinivas Feedback (someone in this group):
+
+Reactions, Suggestions & Feedback
+I think the idea of a smart charger is incredibly clever and solves a very relatable problem. The most effective part of the concept is its simplicity. The visual you created with the red, yellow, and green lights is an intuitive way to provide information without being distracting. It's a great example of a simple design solution for a real-world frustration. The video does a great job of showing a simple idea with a big impact. The strength of the prototype is its clarity and simplicity. You effectively showed how the color-coded light on the charger solves a common problem: knowing if your device is charging without having to pick it up or unlock it. The shift from red to green is easy to understand and makes the whole charging process much more convenient.
+
+Constructive Feedback: Instead of just a solid green light, what if the light pulsed or blinked a few times to get the user's attention when the device reaches full charge? This would be a subtle, non-intrusive notification that the device is ready to be unplugged.
+
+Scene and Character Goals
+From what I saw in your storyboard, the scene is a student's workspace at home as they are preparing for exams. The character, Mia, is trying to stay focused on her work, but her iPad is low on battery. Her goal is to charge her device efficiently without losing focus or getting distracted. The smart charger helps her by providing clear, at-a-glance feedback so she knows when her device is ready, allowing her to stay in her workflow.
+
+Questions for Clarification
+In the video, did you show what happens if the user unplugs the device before the light turns green?
+
+How does the charger differentiate between different devices?
+
+
+
+ New video and storyboard:
 
 <img width="891" height="923" alt="image" src="https://github.com/user-attachments/assets/08aa82c4-f56a-48e0-92c1-8286c99a8226" />
 

@@ -1,7 +1,8 @@
 
 **⚠️ ALWAYS commit your work before pulling updates!**
 
-
+Alaysia Reape 
+Method 1 used no merge conflicts 
 
 ## Method 1: Using GitHub's Sync Fork Button (Recommended)
 

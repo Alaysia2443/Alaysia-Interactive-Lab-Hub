@@ -238,6 +238,13 @@ In the video, did you show what happens if the user unplugs the device before th
 
 How does the charger differentiate between different devices?
 
+ I appreciate you taking the time to provide such detailed and insightful feedback on the storyboards and prototypes.
+Your review is very helpful because it goes beyond simply describing the designs and points out real-world challenges and opportunities for improvement.
+For the Guided Light Library, your points about handling multiple users and the precision of the light are excellent. You're right, a strong idea on paper needs to be able to scale and perform accurately in a complex environment like a busy library.
+Regarding the Room Activity Light, your concern about color interpretation is crucial. The idea of allowing for customization is a fantastic way to address the subjectivity of color and ensure clear communication between roommates.
+  
+Your feedback on the Time To… device highlights a key design challenge for any smart assistant being helpful without being overwhelming. Your suggestion of using more subtle cues is a perfect way to make the device a gentle guide rather than a source of stress.
+This kind of constructive feedback is exactly what helps refine a design from a good concept into a truly great product.
 
 
  New video and storyboard:
